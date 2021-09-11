@@ -1,6 +1,9 @@
 # simulate-portfolio
 
-Small portfolio simulation for demonstration purposes
+Small portfolio simulation for demonstration purposes - Work in progress
+You can find a live version here:
+
+https://pablopen.github.io/simulate-portfolio
 
 ## Requirements
 
